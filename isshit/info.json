@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "W4mp3",
+    "SHORT" : "A wholesome way of telling someone that they are cool.",
+    "DESCRIPTION" : "A wholesome way of telling someone that they are cool. Do not confuse with the [p]insult thing. Use: [p]isshit <@user#1234>",
+    "DISABLED" : false,
+    "NAME" : "Isshit",
+    "TAGS" : ["fun","wholesome"],
+    "INSTALL_MSG" : "Thanks for installing the isshit command of W4mp3sBigCogs. Try it on yourself right now :)"
+}
