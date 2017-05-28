@@ -14,3 +14,7 @@ If you are adventureous (or however you write that word) try the develop branch
 **Note:** This command contains some bad language (like some special f-words)  
 Allows you to wholesomely praise the mentioned user. Why is it called [p]isshit and not [p]praise? Well, this is a small trap for people thinking that they are better than you by using a bot to insult you. Jokes on them, the bot is prasing you and the troll is defeated. Even the description of the command decieves you.  
 You can add manually some texts, just open the list.json in the isshit_w4mp3 folder. Use {} as a placeholder for the name.
+
+### [p]ttslang
+    [p]cog install W4mp3sBigCogs ttslang
+**Extension:** Allows you to change the language of the text-to-speach voice by the [sfx cog of flapjax](https://github.com/flapjax/FlapJack-Cogs "The very cool sfx cog, 10/10").
