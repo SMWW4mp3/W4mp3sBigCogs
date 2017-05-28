@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "W4mp3",
+    "SHORT" : "An Extension to the sfx cog of irdumb, tmerc and flapjax",
+    "DESCRIPTION" : "Extension to the [p]sfx thing by irdumb, tmerc and flabjax. Allows you to change TTS language on the fly.\n'list' - show all available languages\n'current' - Current TTS language\n",
+    "DISABLED" : false,
+    "NAME" : "ttslang",
+    "TAGS" : ["extension","sfx","tts"],
+    "INSTALL_MSG" : "Thanks for installing the ttslang extension of W4mp3sBigCogs. You can now change the language of the tts by typing [p]ttslang <language>. Example: [p]ttslang de"
+}
